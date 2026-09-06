@@ -365,3 +365,153 @@ Created: 2026
 ---
 
 **Note:** Add screenshots of code and terminal outputs to the `imgs/` folder with the naming convention specified above for complete documentation.
+
+---
+
+## Assignment Programs
+
+The following programs are located in the `Assignment/` folder. Code and terminal-output screenshots are stored in `imgs/Assignment/`.
+
+### 1. Positive Number Check (simpleif.c)
+Checks whether an entered number is positive.
+
+**Code:**
+![Positive Number Check Code](imgs/Assignment/simpleif.png)
+
+**Output:**
+![Positive Number Check Output](imgs/Assignment/simpleif_terminal.png)
+
+### 2. Even or Odd Check (ifelse.c)
+Checks whether an entered number is even or odd.
+
+**Code:**
+![Even or Odd Code](imgs/Assignment/ifelse.png)
+
+**Output:**
+![Even or Odd Output](imgs/Assignment/ifelse_terminal.png)
+
+### 3. Largest of Three Numbers (elself.c)
+Finds the largest of three numbers using an else-if ladder.
+
+**Code:**
+![Largest of Three Numbers Code](imgs/Assignment/elself.png)
+
+**Output:**
+![Largest of Three Numbers Output](imgs/Assignment/elseif_terminal.png)
+
+### 4. ATM Withdrawal Check (atm.c)
+Displays an alert when the withdrawal amount is 50,000 or more.
+
+**Code:**
+![ATM Withdrawal Check Code](imgs/Assignment/Atm.png)
+
+**Output:**
+![ATM Withdrawal Check Output](imgs/Assignment/atm_terminal.png)
+
+### 5. BMI Classification (BMI.c)
+Classifies a BMI value as underweight, normal weight, overweight, or obese.
+
+**Code:**
+![BMI Classification Code](imgs/Assignment/bmi.png)
+
+**Output:**
+![BMI Classification Output](imgs/Assignment/bmi_terminal.png)
+
+### 6. Cab Fare Estimator (cabfare.c)
+Selects a fare category based on the distance travelled: 0-5 km, 5-10 km, 10-20 km, or above 20 km.
+
+**Code:**
+![Cab Fare Estimator Code](imgs/Assignment/cabfare.png)
+
+**Output:**
+![Cab Fare Estimator Output](imgs/Assignment/cabfare_terminal.png)
+
+### 7. Electricity Bill Calculator (electricitybill.c)
+Calculates the bill using different rates for four ranges of electricity units consumed.
+
+**Code:**
+![Electricity Bill Calculator Code](imgs/Assignment/electricitybill.png)
+
+**Output:**
+![Electricity Bill Calculator Output](imgs/Assignment/electricitybill_terminal.png)
+
+### 8. Flight Boarding Check (flightbooking.c)
+Allows boarding only when the ticket is valid and the passenger arrives on time.
+
+**Code:**
+![Flight Boarding Check Code](imgs/Assignment/flightbooking.png)
+
+**Output:**
+![Flight Boarding Check Output](imgs/Assignment/flightbooking_terminal.png)
+
+### 9. Job Application Screening (JobApplications.c)
+Screens applicants using a minimum marks percentage and years of experience.
+
+**Code:**
+![Job Application Screening Code](imgs/Assignment/JobApplications.png)
+
+**Output:**
+![Job Application Screening Output](imgs/Assignment/JobApplications_terminal.png)
+
+### 10. Loan Approval (loanapproval.c)
+Approves loans instantly for qualifying income and credit scores, or sends them for manual review.
+
+**Code:**
+![Loan Approval Code](imgs/Assignment/loanapproval.png)
+
+**Output:**
+![Loan Approval Output](imgs/Assignment/loanapproval_terminal.png)
+
+### 11. Movie Ticket Eligibility (movie.c)
+Allows entry to an A-rated movie for people aged 18 or older.
+
+**Code:**
+![Movie Ticket Eligibility Code](imgs/Assignment/movie.png)
+
+**Output:**
+![Movie Ticket Eligibility Output](imgs/Assignment/movie_terminal.png)
+
+### 12. Online Order Delivery (onlineorder.c)
+Applies free delivery to orders of 500 or more and a delivery charge to smaller orders.
+
+**Code:**
+![Online Order Delivery Code](imgs/Assignment/onlineorder.png)
+
+**Output:**
+![Online Order Delivery Output](imgs/Assignment/onlineorder_terminal.png)
+
+### 13. Pass or Fail Check (passfail.c)
+Checks whether marks meet the passing score of 35.
+
+**Code:**
+![Pass or Fail Code](imgs/Assignment/passfail.png)
+
+**Output:**
+![Pass or Fail Output](imgs/Assignment/passfail_terminal.png)
+
+### 14. Shop Inventory Check (shopinventory.c)
+Checks item quantities against their specified stock limits.
+
+**Code:**
+![Shop Inventory Check Code](imgs/Assignment/shopinventory.png)
+
+**Output:**
+![Shop Inventory Check Output](imgs/Assignment/shopinventory_terminal.png)
+
+### 15. Speed Camera Check (speedcamera.c)
+Determines whether a speeding ticket is issued at a speed of 80 or more.
+
+**Code:**
+![Speed Camera Check Code](imgs/Assignment/speedcamera.png)
+
+**Output:**
+![Speed Camera Check Output](imgs/Assignment/speedcamera_terminal.png)
+
+### 16. Weather-Based Clothing Suggestion (Weather.c)
+Suggests clothing based on the temperature in Celsius.
+
+**Code:**
+![Weather Suggestion Code](imgs/Assignment/Weather.png)
+
+**Output:**
+![Weather Suggestion Output](imgs/Assignment/Weather_terminal.png)
